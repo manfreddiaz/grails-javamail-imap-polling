@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EmailNotificationReply">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/EmailNotificationReply.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
