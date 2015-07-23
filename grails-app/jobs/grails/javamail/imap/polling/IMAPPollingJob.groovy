@@ -22,8 +22,8 @@ class IMAPPollingJob {
         String receivingPort = null;
 
         String inboxFolderName = "inbox";
-        String processedEmailsFolderName = null;// "Processed";
-        String errorEmailsFolderName = null;//"UnProcessed";
+        String processedEmailsFolderName = "Processed";
+        String errorEmailsFolderName = "UnProcessed";
 
         //Email Sender Only
         EmailHelper emailSenderOnly = new EmailHelper(emailGateID, emailGateHost, emailPassword, senderHost, senderPort);
