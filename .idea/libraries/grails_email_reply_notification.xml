@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grails-email-reply-notification">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/grails-email-reply-notification.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

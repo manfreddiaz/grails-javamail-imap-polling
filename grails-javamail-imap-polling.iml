@@ -73,5 +73,6 @@
     </orderEntry>
     <orderEntry type="module" module-name="grails-javamail-imap-polling-grailsPlugins" />
     <orderEntry type="library" name="EmailNotificationReply" level="project" />
+    <orderEntry type="library" name="grails-email-reply-notification" level="project" />
   </component>
 </module>
